@@ -1,6 +1,6 @@
 # Built a To-Do List Web App .
 
-* Tech Stack & Relevance:
+Tech Stack & Relevance:
   
 - Flask: Backend framework for scalable web apps & APIs
   
@@ -8,4 +8,4 @@
   
 - Bootstrap + HTML/CSS: Responsive, industry-standard UI design
 
-* Features: Add, update, delete tasks | Persistent storage | Responsive design
+Features: Add, update, delete tasks | Persistent storage | Responsive design
